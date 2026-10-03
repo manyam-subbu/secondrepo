@@ -14,7 +14,8 @@ public Class Main{
      int b = 20;
      b++;
      int a = 53;
-     String=local;
+     String=local;     
+     String = remote;
   
   }
 
