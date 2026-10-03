@@ -10,7 +10,7 @@ public Class Main{
      int c=a+b;
      System.out.println(c);
      System.out.println("hai");
-     system.out.println("hai....2");
+     System.out.println("hai....2");
   }
 
 }
