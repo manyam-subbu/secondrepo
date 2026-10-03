@@ -4,5 +4,9 @@ public Class Main{
     System.out.println("hai second project at 18:07")
     
   }
+
+  public void hello(){
+    System.out.println("dummy1 at 17:19")
+  }
   
 }
