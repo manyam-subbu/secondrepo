@@ -11,6 +11,7 @@ public Class Main{
      System.out.println(c);
      System.out.println("hai");
      System.out.println("hai....2");
+     int a=10;
   }
 
 }
