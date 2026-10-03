@@ -13,11 +13,9 @@ public Class Main{
     System.out.println("bye from dummy1 at time")
   }
 
-  int a=10;
-  
   public void hai(){
     System.out.println("hai from dummy1")
   }
-
+  int a=10;
 
 }
