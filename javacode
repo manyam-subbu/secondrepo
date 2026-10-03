@@ -12,7 +12,7 @@ public Class Main{
   public void bye(){
     System.out.println("bye from dummy1 at time")
   }
-
+  
   public void hai(){
     System.out.println("hai from dummy1")
   }
