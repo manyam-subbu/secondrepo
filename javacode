@@ -10,6 +10,6 @@ public Class Main{
   }
   
   public void bye(){
-    System.out.println("bye from dummy1")
+    System.out.println("bye from dummy1 at time")
   }
 }
