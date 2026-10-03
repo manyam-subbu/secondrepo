@@ -12,8 +12,10 @@ public Class Main{
      System.out.println("hai");
      System.out.println("hai....2");
      int b = 20;
+     b++;
      int a = 53;
 
+  
   }
 
 }
