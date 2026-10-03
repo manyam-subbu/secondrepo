@@ -9,4 +9,7 @@ public Class Main{
     System.out.println("dummy1 at 17:19")
   }
   
+  public void bye(){
+    System.out.println("bye from dummy1 at time")
+  }
 }
