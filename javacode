@@ -4,19 +4,5 @@ public Class Main{
     System.out.println("hai second project at 18:07")
     
   }
-  public void hello(){
-     int a=10;
-     int b=20;
-     int c=a+b;
-     System.out.println(c);
-     System.out.println("hai");
-     System.out.println("hai....2");
-     int b = 20;
-     b++;
-     int a = 53;
-     String=local;     
-     String = remote;
   
-  }
-
 }
